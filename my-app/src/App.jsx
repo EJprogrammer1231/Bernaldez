@@ -55,7 +55,7 @@ function App() {
         </div>
 
         <div>
-          <img src="public/profile.jpg" className="w-100 rounded"/>
+          <img src="profile.jpg" className="w-100 rounded"/>
         </div>
       </main>
     </>
